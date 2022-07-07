@@ -57,6 +57,10 @@
 - Summarization
 KoBart와 TextRank 사용하여 문서 요약
 
+## 모델 최적화(미정)
+- <a href="https://stump-rosehip-2a5.notion.site/TensorRT-144ae215503b4392918220334052b719">TensorRT</a>
+- <a href="https://stump-rosehip-2a5.notion.site/OpenVINO-0301abbce9144c74bd2b8b99861227d4">OpenVINO</a>
+
 ## Web,APP 서비스구현(미정)
 - Django를 이용하여 Web상 Service 서빙
 - Flutter를 이용한 APP개발
