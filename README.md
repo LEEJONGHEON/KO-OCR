@@ -20,7 +20,7 @@ Text Detection -> Crop Image -> Crop Image에 대해 각각 Super Resolution 진
 - Post Processing을 도입하여 Text Recognition에서 나온결과값의 정확도를 최대한 높일려고 시도함
 - Pre Processing을 통해 글자를 잘 인식하도록 OpenCV로 Image 조작
 - Text Detection 여러가지 모델 사용
-- Text Recognition에서 Cu
+- Text Recognition에서 Custom Dataset을 Data Augmentation을 진행하여 데이터수를 늘려서 학습함
 
 ## 데이터셋
 AI Hub 데이터셋으로 학습을 진행하였음, 그과정에서 Data Augmentation을 진행하여 데이터수를 늘려서 학습함
