@@ -4,11 +4,11 @@
 
 # Model 설명
 ## Text Detection
-- yolov5
+- <a href="https://github.com/ultralytics/yolov5">yolov5</a>
 ## Super Resolution
-- SwinL
+- <a href="https://github.com/jingyunliang/swinir">SwinlR</a>
 ## Text Recognition
-- What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis 논문의 Star-Net
+- <a href="https://github.com/clovaai/deep-text-recognition-benchmark">deep-text-recognition-benchmark</a> 의 STAR-Net
 ## Post Processing
 - 각종 맞춤법검사기
 ## Application
