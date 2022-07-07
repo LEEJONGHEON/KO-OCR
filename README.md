@@ -24,9 +24,9 @@
 ### ![image](https://user-images.githubusercontent.com/54635552/177795345-4ae24ac1-8454-46b4-981d-c3eb5dfca092.png)
 
 
-# Ko-OCR Model 설명
+# Ko-OCR Model 구조
 
-## Pre Processing
+## Pre Processing(도입여부 고민)
 - <a href="https://stump-rosehip-2a5.notion.site/Pre-Processing-5f15da1c3b554b8bb9108671d457e19f">Pre Processing</a>
 
 ## Text Detection
