@@ -1,7 +1,8 @@
 # 파일 설명
 
 ## cropImage.ipynb 
-- OCR Prototype End-To-End : Text Detection -> Super Resolution -> Text Recognition
+- OCR Prototype End-To-End
+- Text Detection -> Super Resolution -> Text Recognition
 - Text Detection 결과 
 ### ![image](https://user-images.githubusercontent.com/54635552/177793143-e32f5b45-6706-40f6-82bc-b71492398c1a.png)
 - Text Recognition 결과 
