@@ -9,6 +9,9 @@
 - <a href="https://github.com/jingyunliang/swinir">SwinlR</a>
 ## Text Recognition
 - <a href="https://github.com/clovaai/deep-text-recognition-benchmark">deep-text-recognition-benchmark</a> 의 STAR-Net
+- <a href="https://github.com/PaddlePaddle/PaddleOCR?utm_source=catalyzex.com">SVTR-Tiny</a>
+- SVTR 논문 정리 https://stump-rosehip-2a5.notion.site/SVTR-Scene-Text-Recognition-with-a-Single-Visual-Model-9c9ff5eda4964493ac2e96521456ae96
+
 ## Post Processing
 - 각종 맞춤법검사기
 ## Application
