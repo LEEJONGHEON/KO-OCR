@@ -1,5 +1,7 @@
 # 파일 설명
-## cropImage.ipynb : OCR Prototype End-To-End Text Detection -> Super Resolution -> Text Recognition
+
+## cropImage.ipynb 
+- OCR Prototype End-To-End : Text Detection -> Super Resolution -> Text Recognition
 - Text Detection 결과 
 ### ![image](https://user-images.githubusercontent.com/54635552/177793143-e32f5b45-6706-40f6-82bc-b71492398c1a.png)
 - Text Recognition 결과 
@@ -7,7 +9,18 @@
 
 
 ## Detection_SR_Recognition_drawtext.ipynb : 이미지에 글씨쓰기
+- 원본 Image
+### ![image](https://user-images.githubusercontent.com/54635552/177794178-4d481211-aef5-4f8a-a341-00dbe05e7391.png)
+- OCR 된 결과 Image에 Text 적기
+### ![image](https://user-images.githubusercontent.com/54635552/177794282-a0dc297c-68f7-40d9-b892-997b136b532d.png)
+
+
 ## SuperResolution_Recognition_deomo.ipynb Post-Processing, TTS 추가
+- <a href="https://www.notion.so/Post-Processing-f8d9e4022d844ab99c88ea2103eb45b6">각종 맞춤법검사기 추가</a>
+### ![image](https://user-images.githubusercontent.com/54635552/177795444-a669f0b1-b309-41ca-a5da-d1bce81284e1.png)
+
+- 구글 TTS 추가
+### ![image](https://user-images.githubusercontent.com/54635552/177795345-4ae24ac1-8454-46b4-981d-c3eb5dfca092.png)
 
 
 # Ko-OCR Model 설명
