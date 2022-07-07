@@ -1,7 +1,13 @@
 # 파일 설명
-- cropImage.ipynb : OCR Prototype End-To-End Text Detection -> Super Resolution -> Text Recognition
-- Detection_SR_Recognition_drawtext.ipynb : 이미지에 글씨쓰기
-- SuperResolution_Recognition_deomo.ipynb Post-Processing, TTS 추가
+## cropImage.ipynb : OCR Prototype End-To-End Text Detection -> Super Resolution -> Text Recognition
+- Text Detection 결과 
+### ![image](https://user-images.githubusercontent.com/54635552/177793143-e32f5b45-6706-40f6-82bc-b71492398c1a.png)
+- Text Recognition 결과 
+### ![image](https://user-images.githubusercontent.com/54635552/177793476-46d9b2d6-8a11-456e-8d71-edfe79b692e2.png)
+
+
+## Detection_SR_Recognition_drawtext.ipynb : 이미지에 글씨쓰기
+## SuperResolution_Recognition_deomo.ipynb Post-Processing, TTS 추가
 
 
 # Ko-OCR Model 설명
