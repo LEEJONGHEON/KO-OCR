@@ -43,7 +43,8 @@
 ## Text Recognition
 - <a href="https://github.com/clovaai/deep-text-recognition-benchmark">deep-text-recognition-benchmark</a> 의 STAR-Net
 - <a href="https://github.com/PaddlePaddle/PaddleOCR?utm_source=catalyzex.com">SVTR-Tiny</a>
-- SVTR 논문 정리 https://stump-rosehip-2a5.notion.site/SVTR-Scene-Text-Recognition-with-a-Single-Visual-Model-9c9ff5eda4964493ac2e96521456ae96
+- SVTR 논문 정리 
+- https://stump-rosehip-2a5.notion.site/SVTR-Scene-Text-Recognition-with-a-Single-Visual-Model-9c9ff5eda4964493ac2e96521456ae96
 
 ## Post Processing
 - <a href="https://www.notion.so/Post-Processing-f8d9e4022d844ab99c88ea2103eb45b6">각종 맞춤법검사기</a>
