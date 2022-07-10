@@ -5,8 +5,11 @@
 4. 한글은 영문과 비교해 분류해야할 글자수가 몇십배나됨
 
 ## deep-text-recognition 모델비교
-
-
+- TPS-VGG-BiLSTM-Attention 모델이 성능은 제일좋음
+- inference 속도를 고려하면 TPS-VGG-BiLSTM-CTC 모델이 속도가 더빠름
+- TPS 사용하면 사용하지않을때 확실히 성능향상이 보임
+- CTC는 인코더 디코더 구조로, 인코더 디코더 사이에 병목현상이 발생함
+- Attention 디코더 예측때 좀더 뛰어난 성능을 보임, 하지만 속도 저하문제가 발생함
 # 파일 설명
 ## cropImage.ipynb 
 - OCR Prototype End-To-End
