@@ -1,5 +1,10 @@
-# 파일 설명
+## 한글 OCR 어려움이유
+1. 문서 글자 -> 정형데이터 , 손글씨 및 서명 -> 비정형화
+2. 배경이 복잡한 경우 , 배경과 문자 구분이 힘듬
+3. 노이즈, 글자 왜곡, 글자 사이 밀도 , 저해상도 
+4. 한글은 영문과 비교해 분류해야할 글자수가 몇십배나됨
 
+# 파일 설명
 ## cropImage.ipynb 
 - OCR Prototype End-To-End
 - Text Detection -> Super Resolution -> Text Recognition
