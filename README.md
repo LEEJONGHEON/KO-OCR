@@ -4,6 +4,9 @@
 3. 노이즈, 글자 왜곡, 글자 사이 밀도 , 저해상도 
 4. 한글은 영문과 비교해 분류해야할 글자수가 몇십배나됨
 
+## deep-text-recognition 모델비교
+
+
 # 파일 설명
 ## cropImage.ipynb 
 - OCR Prototype End-To-End
