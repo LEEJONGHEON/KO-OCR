@@ -91,6 +91,6 @@ Text Detection -> Crop Image -> Crop Image에 대해 각각 Super Resolution 진
 - Text Detection Yolo의 여러가지 버전과 모델 Yolov5,Yolov6,YoloX,Yolov7 학습
 - Text Recognition에서 Custom Dataset을 Data Augmentation을 진행하여 데이터수를 늘려서 학습함
 - 학습 DataSet의 여러번 변경
-
+- Text Recognition (64,200) , (80,400) 학습진행 , Validation 진행결과, (64,200) 이 성능이 더높게나옴
 ## DataSet
 AI Hub 데이터셋으로 학습을 진행하였음, 그과정에서 Data Augmentation을 진행하여 데이터수를 늘려서 학습함
