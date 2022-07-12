@@ -1,3 +1,4 @@
+<a href='https://drive.google.com/file/d/14pOC7oEOa-aPtJ2tu9V77lSOPaSegUU3/view?usp=sharing'>OCR 중간발표</a>
 ## 한글 OCR 어려움이유
 1. 문서 글자 -> 정형데이터 , 손글씨 및 서명 -> 비정형화
 2. 배경이 복잡한 경우 , 배경과 문자 구분이 힘듬
