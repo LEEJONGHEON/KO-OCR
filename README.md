@@ -94,6 +94,8 @@ Text Detection -> Crop Image -> Crop Image에 대해 각각 Super Resolution 진
 - Text Recognition (64,200) , (80,400) 학습진행 , Validation 진행결과, (64,200) 이 성능이 더높게나옴
 
 ### 허프변환
-
+- 직선 추출알고리즘
+- 허프 변환으로 직선추출후 직선기반으로, rotation 하여 그림 왜곡 해결 도전
+- 
 ## DataSet
 AI Hub 데이터셋으로 학습을 진행하였음, 그과정에서 Data Augmentation을 진행하여 데이터수를 늘려서 학습함
