@@ -103,8 +103,15 @@ https://colab.research.google.com/drive/1RREIpYc82ZaDzY4Ygg6Qe-264ImS6RN4?usp=sh
 ### 패딩주고 종횡비로 resize
 https://colab.research.google.com/drive/1K7Q3XucAvEP5SVfBhMy5iAFGV_T-aMhp?usp=sharing
 
+### 이미지 원근해결방안
+- 원본
+###![image](https://user-images.githubusercontent.com/54635552/178751205-e0899b68-819e-465a-8bb7-1013dafe2b07.png)
+
+
+
 ## DataSet
 AI Hub 데이터셋으로 학습을 진행하였음, 그과정에서 Data Augmentation을 진행하여 데이터수를 늘려서 학습함
+
 
 
 ## OCR 중간발표
