@@ -100,6 +100,8 @@ Text Detection -> Crop Image -> Crop Image에 대해 각각 Super Resolution 진
 ### 방향있는 yolov5
 https://colab.research.google.com/drive/1RREIpYc82ZaDzY4Ygg6Qe-264ImS6RN4?usp=sharing
 
+### 패딩주고 종횡비로 resize
+https://colab.research.google.com/drive/1K7Q3XucAvEP5SVfBhMy5iAFGV_T-aMhp?usp=sharing
 
 ## DataSet
 AI Hub 데이터셋으로 학습을 진행하였음, 그과정에서 Data Augmentation을 진행하여 데이터수를 늘려서 학습함
