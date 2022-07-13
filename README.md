@@ -106,7 +106,8 @@ https://colab.research.google.com/drive/1K7Q3XucAvEP5SVfBhMy5iAFGV_T-aMhp?usp=sh
 ### 이미지 원근해결방안
 - 원본
 ###![image](https://user-images.githubusercontent.com/54635552/178751205-e0899b68-819e-465a-8bb7-1013dafe2b07.png)
-
+- affineTransform 적용후
+###![image](https://user-images.githubusercontent.com/54635552/178751306-48556c57-e819-4e4a-8d66-c91f6b44224e.png)
 
 
 ## DataSet
